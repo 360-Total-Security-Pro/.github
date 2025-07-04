@@ -32,8 +32,8 @@
 
 ## 🖼 Preview
 
-![Preview 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi-El9uOnzVDrxEl6LyH9B1jCRsGF1X0s8ZA&s)  
-![Preview 2](https://static.360totalsecurity.com/home/images/features/ts/virus-scan.en-d0f07058.png)
+![Preview 1](https://i.pcmag.com/imagery/reviews/073enAmz2q4GIqSP9VvvnAt-54..v1689697436.png)  
+![Preview 2](https://www.techadvisor.com/wp-content/uploads/2022/06/qihoo-360-total-security-2016-review-main.jpg?quality=50&strip=all)
 
 ---
 
